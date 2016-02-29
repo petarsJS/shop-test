@@ -1,0 +1,96 @@
+[{
+  "name": "Blue Cotton Shirt",
+  "price": 150,
+  "discount": true,
+  "price_discount": 99.99,
+  "stars": 4,
+  "sale": true,
+  "color": "Blue",
+  "sizes": ["XL", "M", "S"],
+  "brand": "Zara",
+  "category": "Shirts"
+}, {
+  "name": "Colorful Sweater",
+  "price": 399,
+  "discount": false,
+  "stars": 5,
+  "sale": false,
+  "color": "",
+  "sizes": ["XXL", "XL", "M", "S", "XS"],
+  "brand": "Zara",
+  "category": "Sweaters & Knitwear"
+}, {
+  "name": "Denim Jacket",
+  "price": 150,
+  "discount": true,
+  "price_discount": 99.99,
+  "stars": 4,
+  "sale": true,
+  "color": "Blue",
+  "sizes": ["XL", "XS"],
+  "brand": "CK",
+  "category": "Denim Jackets"
+}, {
+  "name": "Red Cotton Pullover",
+  "price": 199,
+  "discount": false,
+  "stars": 4,
+  "sale": false,
+  "color": "Red",
+  "sizes": ["XL", "M", "XS"],
+  "brand": "Springfield",
+  "category": "T-Shirts & Vests"
+}, {
+  "name": "Apache Punker T-Shirt",
+  "price": 150,
+  "discount": true,
+  "price_discount": 99.99,
+  "stars": 3,
+  "sale": true,
+  "color": "Green",
+  "sizes": ["M"],
+  "brand": "H&M",
+  "category": "Shirts"
+}, {
+  "name": "Brown Cotton Pullover",
+  "price": 150,
+  "discount": true,
+  "price_discount": 99.99,
+  "stars": 4,
+  "sale": true,
+  "color": "Brown",
+  "sizes": ["XXL", "M", "S"],
+  "brand": "Armani",
+  "category": "T-Shirts & Vests"
+}, {
+  "name": "Green Long Jacket",
+  "price": 99.99,
+  "discount": false,
+  "stars": 5,
+  "sale": false,
+  "color": "Green",
+  "sizes": ["L", "M", "S"],
+  "brand": "Zara",
+  "category": "Coats"
+}, {
+  "name": "Black Cotton Blazer",
+  "price": 150,
+  "discount": true,
+  "price_discount": 99.99,
+  "stars": 4,
+  "sale": true,
+  "color": "Black",
+  "sizes": ["L", "M"],
+  "brand": "Tom Tailor",
+  "category": "Coats"
+}, {
+  "name": "Blitz T-Shirt",
+  "price": 189.99,
+  "discount": false,
+  "stars": 4,
+  "sale": false,
+  "color": "Green",
+  "sizes": ["S", "XS"],
+  "brand": "H&M",
+  "category": "T-Shirts & Vests"
+}]
